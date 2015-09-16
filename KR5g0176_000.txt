@@ -1,0 +1,7 @@
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 02:59:34.850354
+#+TITLE: 上清河圖內玄經
+#+PROPERTY: DZID  DZ1367
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，33—819 二卷 正一部
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS HFL
